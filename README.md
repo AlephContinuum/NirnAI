@@ -105,3 +105,5 @@ GET  /api/bids/{bid_id}/analysis
 ```
 
 The AI result should remain structured JSON and should contain evidence references, requirement status, confidence, and issues.
+
+Deployment configuration verified.
